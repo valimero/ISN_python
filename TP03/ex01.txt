@@ -1,0 +1,8 @@
+Peut-on additionner un objet de type str avec un objet de type float ?
+	Non
+
+Peut-on additionner un objet de type int avec un objet de type float ?
+	Oui
+
+Peut-on additionner deux objets de type str ?
+	Oui
