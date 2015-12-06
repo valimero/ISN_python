@@ -1,0 +1,12 @@
+Variables : "name" et "surname" des chaines de caractère
+Initialisation : Affecter a "name" et "surname" la valeur de 1
+
+Traitement:
+Demander à l'utilisateur d'entrer son nom et l'affecter à la variable name
+Demander à l'utilisateur d'entrer son prénom et l'affecter à la variable surname
+
+Afficher le premier caractère de la variable surname en minuscule suivis des 8 
+premiers caractères de la variable name (Ou tous si il y en a moins de 8) en
+minuscule.
+
+Valentin Coppin TS1
