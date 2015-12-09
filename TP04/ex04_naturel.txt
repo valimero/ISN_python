@@ -1,0 +1,11 @@
+Variables : i et r des entiers; L une liste
+Initialisation : Affecter à i la valeur 0 et Affecter à r la valeur du premier
+élément de la liste
+
+Traitement:
+Tant que i est strictement inférieur à la longueur de la liste
+	Si l'élément i de la liste est supérieur à r alors on affecte la valeur 
+	de la case i a r puis on incrémente i
+Afficher r
+
+Valentin Coppin TS1
