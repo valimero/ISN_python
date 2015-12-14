@@ -12,4 +12,5 @@ def g(x, y):
 	return((1/(x*x) + 1/(y*y)))
 
 
+#dev
 print(g(1, 2))
