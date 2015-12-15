@@ -4,7 +4,6 @@ def zeta(x, n):
 	k = 0
 	r = 0.0
 	t = 0.0
-	puissance = 0
 
 # --- Calcul de l'image ---
 	while(k < n):
