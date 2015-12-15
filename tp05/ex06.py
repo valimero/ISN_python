@@ -9,7 +9,7 @@ l'utilisateur entre \"q\" """
 
 	while(input() != 'q'):
 		print(random.randint(1, 6))
-	sys.exit()
+	sys.exit(0)
 
 #dev
 des6()
